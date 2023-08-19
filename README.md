@@ -1,5 +1,5 @@
-# Hi There...
+# Hi There! I'm Ade Yusuf
 
-i'am frontend developers fron **Indonesia**
+A Passionate Frontend Developer From **Indonesia**
 
 > Make everything simple.
