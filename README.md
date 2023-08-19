@@ -1,5 +1,5 @@
-# Hi There! I'm Ade Yusuf
+# Hi There! I'm Ade Yusuf 👋
 
 A Passionate Frontend Developer From **Indonesia**
 
-> Make everything simple.
+> 2023 : Ade Yusuf
