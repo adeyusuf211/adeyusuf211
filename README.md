@@ -2,4 +2,4 @@
 
 A Passionate Frontend Developer From **Indonesia**
 
-> 2023 : Ade Yusuf
+> 2024 : Ade Yusuf
